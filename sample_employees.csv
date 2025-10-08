@@ -1,0 +1,11 @@
+e_id,name,skill,problem_occured,availability
+E001,Employee_1,Software,Software Bug,Yes
+E002,Employee_2,Mechanical,Overheating,Yes
+E003,Employee_3,Networking,Connectivity Issue,Yes
+E004,Employee_4,HVAC,Overheating,No
+E005,Employee_5,Electrical,Power Failure,Yes
+E006,Employee_6,Software,Software Bug,Yes
+E007,Employee_7,Mechanical,Leakage,Yes
+E008,Employee_8,Networking,Connectivity Issue,No
+E009,Employee_9,HVAC,Overheating,Yes
+E010,Employee_10,Electrical,Power Failure,Yes

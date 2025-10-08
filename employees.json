@@ -1,0 +1,96 @@
+{
+  "employees": [
+    {
+      "e_id": "E001",
+      "name": "Employee_1",
+      "skill": "Software",
+      "problem_occured": "Software Bug",
+      "availability": "Yes"
+    },
+    {
+      "e_id": "E002",
+      "name": "Employee_2",
+      "skill": "Mechanical",
+      "problem_occured": "Overheating",
+      "availability": "Yes"
+    },
+    {
+      "e_id": "E003",
+      "name": "Employee_3",
+      "skill": "Networking",
+      "problem_occured": "Connectivity Issue",
+      "availability": "Yes"
+    },
+    {
+      "e_id": "E004",
+      "name": "Employee_4",
+      "skill": "HVAC",
+      "problem_occured": "Overheating",
+      "availability": "No"
+    },
+    {
+      "e_id": "E005",
+      "name": "Employee_5",
+      "skill": "Electrical",
+      "problem_occured": "Power Failure",
+      "availability": "Yes"
+    },
+    {
+      "e_id": "E006",
+      "name": "Employee_6",
+      "skill": "Software",
+      "problem_occured": "Software Bug",
+      "availability": "Yes"
+    },
+    {
+      "e_id": "E007",
+      "name": "Employee_7",
+      "skill": "Mechanical",
+      "problem_occured": "Leakage",
+      "availability": "Yes"
+    },
+    {
+      "e_id": "E008",
+      "name": "Employee_8",
+      "skill": "Networking",
+      "problem_occured": "Connectivity Issue",
+      "availability": "No"
+    },
+    {
+      "e_id": "E009",
+      "name": "Employee_9",
+      "skill": "HVAC",
+      "problem_occured": "Overheating",
+      "availability": "Yes"
+    },
+    {
+      "e_id": "E010",
+      "name": "Employee_10",
+      "skill": "Electrical",
+      "problem_occured": "Power Failure",
+      "availability": "Yes"
+    }
+  ],
+  "metadata": {
+    "total_employees": 10,
+    "skills": [
+      "Electrical",
+      "HVAC",
+      "Mechanical",
+      "Networking",
+      "Software"
+    ],
+    "problem_types": [
+      "Connectivity Issue",
+      "Leakage",
+      "Overheating",
+      "Power Failure",
+      "Software Bug"
+    ],
+    "availability_options": [
+      "Yes",
+      "No"
+    ],
+    "last_updated": "2025-10-08"
+  }
+}
